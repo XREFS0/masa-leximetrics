@@ -1,4 +1,4 @@
-# MASA LexiMetrics
+﻿# MASA LexiMetrics
 
 A real-time lexical analytics engine computing character densities, whitespace distributions, word counts, and line occurrences.
 
@@ -10,6 +10,10 @@ The codebase follows modular software engineering patterns and OOP structure, de
 - **Defensive Engineering**: Comprehensive validation guards protect against malformed inputs and runtime exceptions.
 - **Modern Design Tokens**: Designed with a high-contrast dark aesthetic adhering to modern developer tooling visual standards.
 
+
+## Preview
+
+![Application Interface](screenshots/app_interface.png)
 ## Features
 
 - Event-driven lexical parsing executing on each keyboard release event.
@@ -38,11 +42,12 @@ python "Simple Character Counter App using Tkinter in Python/index.py"
 
 ```
 .
-├── Simple Character Counter App using Tkinter in Python
-├── LICENSE             # MIT License
-└── README.md           # Developer documentation
+â”œâ”€â”€ Simple Character Counter App using Tkinter in Python
+â”œâ”€â”€ LICENSE             # MIT License
+â””â”€â”€ README.md           # Developer documentation
 ```
 
 ## License
 
 This project is licensed under the terms of the MIT License. Refer to the `LICENSE` file for details.
+
